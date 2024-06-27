@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(194, 219, 211);
+}
+/*class que deixa as divs inline*/
+.flex{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto{
+    display: absolute;
+    float: inline-start;
+    max-width: 250px;
+    padding: 0px 40px 0px 10px;
+    border-radius: 7px 7px;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+.nome{
+    display: block;
+}
+h3,p{
+    color: rgb(0, 0, 0);
+}
+
+.linha{
+    color: black;
+}
+.redes{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: xx-large;
+}
+main{
+    padding: 0px 15px;
+}
+.iconrepo{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    float: inline-end;
+}
+
+
+#icones{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+#linkgithub{
+    text-decoration: none;
+    color: black;
+}
+.repo2{
+    background-color: rgb(194, 219, 211);
+}
+.icon1 a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    float: inline-end;
+}
+.descricao{
+ float: inline-start;
+}
+@media screen and (max-width:435px){
+    .foto{
+        display: absolute;
+        float: inline-start;
+        max-width: 350px;
+        padding: 0px 40px 0px 10px;
+        border-radius: 7px 7px;}
+
+}
+@media screen and (max-width:340px){
+    .foto{
+        display: absolute;
+        float: inline-start;
+        max-width: 250px;
+        padding: 0px 40px 0px 10px;
+        border-radius: 7px 7px;}
+
+}

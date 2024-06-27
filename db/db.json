@@ -1,0 +1,90 @@
+{
+    "Carousel":
+    [
+        {
+            "id":1,
+            "titulo": "Cibersegurança", 
+            "img":"https://vanzolini.org.br/wp-content/uploads/2023/05/ciberseguranca-e-o-avanco-contra-os-ataques-ciberneticos.png",
+            "descricao": "A cibersegurança é algo muito importante, entenda como funciona e quais o objetivos dessa área."
+        },
+        {
+            "id":2,
+            "titulo": "Blockchain", 
+            "img":"https://www.metasix.com.br/wp-content/uploads/2024/02/noticia02.jpg",
+            "descricao": "O que é Blockchain e como funciona? Entenda como essa tecnologia é importante para o mercado financeiro."
+        },
+        {
+            "id":3,
+            "titulo": "Desenvolvimento de Software", 
+            "img":"https://fia.com.br/wp-content/uploads/2022/06/desenvolvimento-softwares-o-que-e-como-funciona-dicas-1280x720.jpg",
+            "descricao": "Desenvolvimento de Softwares: O que é, Como Funciona e Dicas."
+        },
+        {
+            "id":4,
+            "titulo": "Internet das coisas (IoT)", 
+            "img":"https://tm.ibxk.com.br/2021/12/21/21150534978340.jpg?ims=1200x675",
+            "descricao": "Internet das Coisas: o que é, como funciona e exemplos de uso."
+        },
+        {
+            "id":5,
+            "titulo": "Business Intelligence (BI)", 
+            "img":"https://neilpatel.com/wp-content/uploads/fly-images/128502/business-intelligence-o-que-e-importancia-beneficios-como-adotar-1200x675-c.png",
+            "descricao": "O que é business intelligence? Seu guia sobre o BI e por que ele é importante."
+        }
+    ],
+
+    "Amigos":
+    [
+        {
+            "id":1,
+            "nome": "Camilla",
+            "img": "https://avatars.githubusercontent.com/u/70085700?v=4",
+            "descricao": "20 y.o 💜 Brazilian - [Pt, En, Es, Ru] 💜 Software Engineer - Learning since 2016 💜 Kazami bot founder & dev 💜",
+            "github": "https://github.com/eacamih"
+        },
+        {
+            "id":2,
+            "nome": "Diogo",
+            "img": "https://avatars.githubusercontent.com/u/119761586?v=4",
+            "descricao": "Software Engineering student at PUC-Minas. Interested in brain-machine interface, neuroscience and mathematics. Avid reader, amateur musician and art admirer.",
+            "github": "https://github.com/DGBBraga"
+        },
+        {
+            "id":3,
+            "nome": "João Gabriel",
+            "img": "https://avatars.githubusercontent.com/u/164224207?v=4",
+            "descricao": "Software Engineering student at PUC minas in Belo Horizonte Minas Gerais",
+            "github": "https://github.com/DGBBraga"
+        },
+        {
+            "id":4,
+            "nome": "Leonardo",
+            "img": "https://avatars.githubusercontent.com/u/160603231?v=4",
+            "descricao": "Hi there ! My name is Leonardo, currently at my first semester of software engeneering at PUC Minas.",
+            "github": "https://github.com/LeonardodeSouzaGalvao"
+        },
+        {
+            "id":5,
+            "nome": "Pedro Henrique",
+            "img": "https://avatars.githubusercontent.com/u/60991403?v=4",
+            "descricao": "Programador NodeJS, web developer e designer gráfico. Gerente de comunidade e assessor da @noodlespicante. Coordenador de programação do @PenguinDimension.",
+            "github": "https://github.com/piterofc"
+        }
+    ],
+
+    "redes":
+    [
+        {
+            "id":1,
+            "nome": "instagram",
+            "link": "https://www.instagram.com/grodrigues122_/"
+        },
+        {
+            "id":2,
+            "nome": "linkedin",
+            "link": "https://www.linkedin.com/in/gabriel-rodrigues-maciel-de-abreu-5907632b6/"
+        }
+    ]
+}
+
+
